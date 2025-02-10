@@ -41,13 +41,3 @@ Welcome to my GitHub profile! I’m currently a freelance software developer, wo
 ### Activity Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=joseph-c-mcguire&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-## Pinned Repositories
-
-[![titanic_app](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=titanic_app)](https://github.com/joseph-c-mcguire/titanic_app)
-[![webapp-example-frontend](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=webapp-example-frontend)](https://github.com/joseph-c-mcguire/webapp-example-frontend)
-[![webapp-example-backend](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=webapp-example-backend)](https://github.com/joseph-c-mcguire/webapp-example-backend)
-[![desktop-reminders](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=desktop-reminders)](https://github.com/joseph-c-mcguire/desktop-reminders)
-[![selenium-v-requests-comparison](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=selenium-v-requests-comparison)](https://github.com/joseph-c-mcguire/selenium-v-requests-comparison)
-[![selenium-bot-automation](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=selenium-bot-automation)](https://github.com/joseph-c-mcguire/selenium-bot-automation)
-[![joseph-c-mcguire.github.io](https://github-readme-stats.vercel.app/api/pin/?username=joseph-c-mcguire&repo=joseph-c-mcguire.github.io)](https://github.com/joseph-c-mcguire/joseph-c-mcguire.github.io)
