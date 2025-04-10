@@ -2,14 +2,6 @@
 
 Welcome to my GitHub profile! I’m currently a freelance software developer, working on various projects in finance, data automation, backtesting, and more. I also dabble in full-stack web applications and data visualization tools. Below is a quick snapshot of what I’m working on:
 
-- 🏦 Finance Freelance Projects  
-  - Primarily focused on data automation and backtesting (repo private).  
-  - Related Repos Example: [strategy-quant-clone](https://github.com/joseph-c-mcguire/strategy-quant-clone) [ercot-project](https://github.com/joseph-c-mcguire/ercot-project)
-
-- 🔬 Secret Startup Technologies (QSAR Space)  
-  - Exploring novel methods for quantitative structure-activity relationships.  
-  - Repos: [special-memory](https://github.com/joseph-c-mcguire/special-memory), [supreme-octo-fortnight](https://github.com/joseph-c-mcguire/supreme-octo-fortnight)
-
 - 📊 Data Visualization  
   - Building tools for scikit-learn models and exploring predictive capabilities.  
   - Example: [titanic_app](https://github.com/joseph-c-mcguire/titanic_app)
